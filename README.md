@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi Visitor!
+I like good coffee and java, even javascript.
