@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+I had Vietnamese egg-rolls for lunch.
